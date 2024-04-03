@@ -1,0 +1,16 @@
+#Project
+/out/
+/target/
+/lib/
+/log/
+/.PVS-Studio/
+*.class
+*.codacy.yml
+*.patch
+
+#Intellij IDEA
+/.idea/
+*.iml
+
+#MacOS files:
+*.DS_Store
