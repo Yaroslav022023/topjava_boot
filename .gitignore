@@ -7,6 +7,7 @@
 *.class
 *.codacy.yml
 *.patch
+*.md
 
 #Intellij IDEA
 /.idea/

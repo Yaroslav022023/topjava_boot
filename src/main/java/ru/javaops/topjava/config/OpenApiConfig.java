@@ -23,12 +23,11 @@ import org.springframework.context.annotation.Configuration;
                 version = "1.0",
                 description = """
                         Calories Management application (<a href='https://javaops.ru/view/topjava'>TopJava</a>) Spring Boot migration
-                        <p><b>Тестовые креденшелы:</b><br>
-                        - user@yandex.ru / password<br>
+                        <p><b>Test credentials:</b><br>
+                        - user@gmail.com / password<br>
                         - admin@gmail.com / admin<br>
                         - guest@gmail.com / guest</p>
-                        """,
-                contact = @Contact(url = "https://javaops.ru/#contacts", name = "Grigory Kislin", email = "admin@javaops.ru")
+                        """
         ),
         security = @SecurityRequirement(name = "basicAuth")
 )
