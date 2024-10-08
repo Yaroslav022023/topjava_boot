@@ -3,11 +3,12 @@
 /target/
 /lib/
 /log/
+/patches/
 /.PVS-Studio/
 *.class
 *.codacy.yml
 *.patch
-*.md
+*.cmd
 
 #Intellij IDEA
 /.idea/
